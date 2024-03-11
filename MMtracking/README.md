@@ -15,7 +15,7 @@ pip install -e ./mmdetection-2.19.1
 ```
 
 ## Dataset 
-For the dataset preparation of MOT20, please refer to [dataset.md](mmtracking-0.11.0/docs/en/dataset.md)
+For the dataset preparation of MOT20, please refer to [dataset.md](https://github.com/open-mmlab/mmtracking/blob/master/docs/en/dataset.md)
 
 
 ## Results with Tracktor As Baseline
